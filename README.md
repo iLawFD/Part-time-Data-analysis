@@ -1,4 +1,4 @@
-#In this rep, i will upload some of the tasks i was asked to do in my part time job. 
+# In this rep, i will upload some of the tasks i was asked to do in my part time job. 
 1 - Firt tasks:
   - clean all the data of all months files
   - create an excel file called stream c that contains the information off all the data in all months files in a given format
